@@ -1,0 +1,5 @@
+1. Make system start by reading conf file ( server location etc.. )
+
+2. Update for sync deleted file.
+
+3. Sync file on server. 
